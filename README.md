@@ -1,4 +1,6 @@
-# Repositório do Desafio de Modelagem e de Diagramação da Representação em UML e Código em Java no que se refere aos componentes do iPhone.
+# Projeto do Desafio Modelagem e de Diagramação do iPhone.
+
+Repositório do Desafio de Modelagem e de Diagramação da Representação em UML e Código em Java no que se refere aos componentes do iPhone.
 
 Segue abaixo o UML do projeto:
 
